@@ -15,21 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](https://github.com/ezotericno)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
 ![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -38,42 +28,24 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+This is technically my second attempt of this challenge. I ended up scrapping my first attempt and starting completely over, this time I took a step-by-step approach.
+The first go around I was working for hours and was not able to produce something close to a solution. I took a couple days break, then decided to start all over from scratch. I started off editing the html file and sorting things to make it more readable in a side-by-side window in Github Codespaces. After the html file setup, I begun creating my scss files and started Live Sass Compiler. I separated my Sass veriables and basic configurations into their own files and used ``` @import ``` to get them into the main. Once everything was setup it was time to style everything was Sass. It took a good amount of time getting things to the right shape and lined up properly, but eventually I had everything pretty good. 
+
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- Sass
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Github Codespaces
+  - Extensions used:
+    - Live Sass compiler
+    - Live Server
+    - Prettier
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Building off of just a screenshot takes a lot of work and research. [This website](https://www.w3docs.com/) was a huge help during the whole process. I wanted to see how far
+I could get with just my initial knowledge at first, then I begun looking at the former website for things I did not know how to do. Doing this taught me a lot about the workflow and how setting up your coding envirornment is one of the keys to success.
 
 ### Continued development
 
@@ -83,21 +55,15 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [W3 Docs](https://www.w3docs.com/) - This website was my main source of tutorials when it came to CSS styling
+- [W3 Schools](www.w3schools.com) - I used this as a secondary resource with learning how to use flex and alignment with items
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Anthony Pritchard](https://github.com/ezotericno)
+- Frontend Mentor - [@ezotericno](https://www.frontendmentor.io/profile/ezotericno)
+- Twitter - [@EZOtericno](https://www.twitter.com/ezotericno)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Big shoutout to @coder-coder, I was first introduced to their content via the [freeCodeCamp.org's](https://www.youtube.com/@freecodecamp) YouTube videos. While watching some of the html and CSS/Sass videos I got excited and interested in learning web-development. 
