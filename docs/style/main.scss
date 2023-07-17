@@ -22,14 +22,19 @@ img {
     justify-content: space-around;
 }
 
+h1 {
+    
+}
+
 .sent1 {
-    justify-content: space-around;
+    flex-wrap: wrap;
+    align-self: center;
     font-weight: 700;
     color: $dark-blue;
 }
 
 .sent2 {
-    justify-content: space-around;
+    flex-wrap: wrap;
     font-weight: 400;
     color: $gray-blue;
 }
