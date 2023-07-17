@@ -1,0 +1,35 @@
+@import 'variables';
+@import 'config';
+
+body {
+    background-color: $light-gray;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: $white;
+    border-radius: 25px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+.qrpic {
+    border-radius: 25px;
+    justify-content: space-around;
+}
+
+.sent1 {
+    justify-content: space-around;
+    font-weight: 700;
+    color: $dark-blue;
+}
+
+.sent2 {
+    justify-content: space-around;
+    font-weight: 400;
+    color: $gray-blue;
+}
