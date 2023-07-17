@@ -66,4 +66,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-Big shoutout to @coder-coder, I was first introduced to their content via the [freeCodeCamp.org's](https://www.youtube.com/@freecodecamp) YouTube videos. While watching some of the html and CSS/Sass videos I got excited and interested in learning web-development. 
+Big shoutout to [@thecodercoder](https://github.com/thecodercoder), I was first introduced to her content via the [freeCodeCamp.org's](https://www.youtube.com/@freecodecamp) YouTube videos. While watching some of the html and CSS/Sass videos I got excited and interested in learning web-development, watching her made me wonder if I could do something like that. Web-development is hard! But very satisfying once you get things right and working properly.
