@@ -6,28 +6,29 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
 }
 
 .flex-container {
     display: flex;
     flex-direction: column;
+    flex-shrink: 3;
     background-color: $white;
     border-radius: 25px;
+    width: 400px;
 }
 
 img {
     border-radius: 25px;
-    margin-top: 25px;
+    margin-top: 15px;
     width: 375px;
     margin-left: 15px;
     margin-right: 15px;
 }
 
 h1 {
+    display: flex;
     align-self: center;
-    width: 375px;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 .sent1 {
@@ -38,11 +39,9 @@ h1 {
 }
 
 p {
+    display: flex;
     font-size: 15px;
-    width: 250px;
     align-content: center;
-    padding-left: 15px;
-    padding-right: 15px;
 }
 
 .sent2 {
