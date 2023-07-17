@@ -40,8 +40,11 @@ h1 {
 
 p {
     display: flex;
+    align-self: center;
     font-size: 15px;
-    align-content: center;
+    padding-bottom: 25px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 .sent2 {
