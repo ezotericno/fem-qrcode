@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot of my solution]()
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/ezotericno/fem-qrcode)
+- [Live Site URL](https://ezotericno.github.io/fem-qrcode/)
 
 ## My process
 
@@ -33,9 +33,8 @@ The first go around I was working for hours and was not able to produce somethin
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML
 - Sass
-- Flexbox
 - Github Codespaces
   - Extensions used:
     - Live Sass compiler
@@ -49,9 +48,7 @@ I could get with just my initial knowledge at first, then I begun looking at the
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Looking ahead, I would like to try and use Python for my next challenge. HTML and CSS/Sass are great, but the coding language I started learning first was Python and I would like to coninue on that journey and see what I can make and learn things like Django and Flask. This project may not seem like much, but for me it was a long journey to get it to where it is today. I feel way more confident now in what I can do, and I know if I put my mind to it I can figure things out and achieve more and make something even better next time. 
 
 ### Useful resources
 
@@ -66,4 +63,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-Big shoutout to [@thecodercoder](https://github.com/thecodercoder), I was first introduced to her content via the [freeCodeCamp.org's](https://www.youtube.com/@freecodecamp) YouTube videos. While watching some of the html and CSS/Sass videos I got excited and interested in learning web-development, watching her made me wonder if I could do something like that. Web-development is hard! But very satisfying once you get things right and working properly.
+Big shoutout to [@thecodercoder](https://github.com/thecodercoder), I was first introduced to her content via the [freeCodeCamp.org's](https://www.youtube.com/@freecodecamp) YouTube videos. While watching some of the html and CSS/Sass videos I got interested in learning web-development, watching her made me wonder if I could do something like that. Web-development is hard! But very satisfying once you get things right and working properly.
